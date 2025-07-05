@@ -50,5 +50,5 @@ This research is shared for a academic and research purposes. For commercial use
 **Resources** \
 https://www.ijsat.org/ \
 **Author Contact** \
-**LinkedIn**: https://www.linkedin.com/in/naveensrikanth/ | **Email**: connect.naveensrikanth@gmail.com
+**LinkedIn**:  | **Email**: kanagalakshmi2004@gmail.com
   
