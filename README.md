@@ -33,10 +33,10 @@ This paper investigates the replication time challenges in Viewstamped Replicati
 
   | Nodes | VR Replication Time (ms) | ZAB Replication Time (ms) | Improvement (%) |
   |-------|--------------------------| --------------------------| ----------------|
-  | 3     | 6.0                      | 5.2                       |                 |
-  | 5     | 8.1                      | 6.7                       |                 |
-  | 7     | 10.5                     | 8.4                       |                 |
-  | 9     | 13.0                     | 10.3                      |                 |
-  | 11    | 15.6                     | 12.2                      |                 |
+  | 3     | 6.0                      | 5.2                       | 13.3            |
+  | 5     | 8.1                      | 6.7                       | 17.3            |
+  | 7     | 10.5                     | 8.4                       | 20.0            |
+  | 9     | 13.0                     | 10.3                      | 20.8            |
+  | 11    | 15.6                     | 12.2                      | 21.8            |
  
   
