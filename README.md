@@ -28,7 +28,7 @@ This paper investigates the replication time challenges in Viewstamped Replicati
 * **Academic Recognition :** \
     need to add here
 * **Educational Impact:** \
-    need to add here
+    need to add here \
 **Experimental Results (Summary)**:\
 
   | Nodes | VR Replication Time (ms) | ZAB Replication Time (ms) | Improvement (%) |
