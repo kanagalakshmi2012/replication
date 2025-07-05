@@ -29,3 +29,12 @@ This paper investigates the replication time challenges in Viewstamped Replicati
     need to add here
 * **Educational Impact:** \
     need to add here
+**Experimental Results (Summary)**:\
+
+  Cluster Size (Nodes)	NTP Sync Time (minutes)	Chrony Sync Time (minutes)	Improvement (%)
+3	8	1	87.5
+5	10	1	90
+7	13	2	84.6
+9	16	2	87.5
+11	18	3	83.3
+  
