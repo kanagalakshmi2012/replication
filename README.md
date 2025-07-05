@@ -21,11 +21,11 @@ This paper investigates the replication time challenges in Viewstamped Replicati
 
 **Relevance & Real-World Impact**
 
-* **Kubernetes infrastructure optimization:**
+* **Kubernetes infrastructure optimization:**\
     Enhances distributed key-value store performance by improving the write availability in distributed systems.
-* **Write availability Improvement:**
+* **Write availability Improvement:** \
     need to add here
-* **Academic Recognition :**
+* **Academic Recognition :** \
     need to add here
-* **Educational Impact:**
+* **Educational Impact:** \
     need to add here
