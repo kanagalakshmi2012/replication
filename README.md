@@ -41,17 +41,17 @@ This paper investigates the replication time challenges in Viewstamped Replicati
   | 11    | 15.6                     | 12.2                      | 21.8            |
 
 **Citation**
-OPTIMIZING READ PERFORMANCE IN DISTRIBUTED systems USING Chrony Sync process.
-Naveen Srikanth Pasupuleti
-International Journal on Science and Technology
-E-ISSN-2229-7677
-License
+OPTIMIZING READ PERFORMANCE IN DISTRIBUTED systems USING Chrony Sync process. \
+Kanagalakshmi Murugan \
+International Journal on Science and Technology \
+E-ISSN-2229-7677 \
+License \
 
 This research is shared for a academic and research purposes. For commercial use, please contact the author.
-**Resources**
+**Resources** \
 
 https://www.ijsat.org/
-**Author Contact**
+**Author Contact** \
 
 **LinkedIn**: https://www.linkedin.com/in/naveensrikanth/ | **Email**: connect.naveensrikanth@gmail.com
   
