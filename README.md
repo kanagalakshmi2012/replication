@@ -12,13 +12,13 @@
 This paper investigates the replication time challenges in Viewstamped Replication (VR), a consensus protocol widely used in distributed systems for ensuring consistency and fault tolerance. As the number of nodes increases, VR suffers from high replication delays due to its quorum-based communication model. These delays negatively impact system throughput and responsiveness, especially in performance-critical or real-time environments. To address this, the paper proposes an alternative approach using the ZAB (ZooKeeper Atomic Broadcast) protocol to reduce replication time. The solution aims to maintain VR’s reliability while improving scalability and operational efficiency in large distributed systems.
 
 **Key Contributions:**
-* Algorithm Enhancement: \
+* **Algorithm Enhancement:** \
 Developed and refined replication mechanisms by integrating the ZAB protocol to reduce replication delays in Viewstamped Replication.
 
-* Performance Improvement: \
+* **Performance Improvement:** \
 Evaluated and demonstrated reduced replication time and improved scalability compared to traditional quorum-based VR communication.
 
-* Reserach Leadership
+* **Reserach Leadership:** \
   Led the research and technical implementation , focusing on advancing distributed database through algorithm innovation.
 
 **Relevance & Real-World Impact**
