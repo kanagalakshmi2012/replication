@@ -32,7 +32,7 @@ Improved system throughput and responsiveness in distributed environments by min
 * **Academic Recognition :** \
     Discussed in scholarly articles and technical documents focusing on DNS query handling and performance improvements in ETCD.
 * **Educational Impact:** \
-    Incorporated into research projects, supporting continuous academic dialogue on container orchestration and cloud system efficiency. \
+    Incorporated into research projects, supporting continuous academic dialogue on container orchestration and cloud system efficiency.
 
 **Experimental Results (Summary)**:
 
