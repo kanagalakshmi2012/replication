@@ -45,7 +45,7 @@ Improved system throughput and responsiveness in distributed environments by min
   | 11    | 15.6                     | 12.2                      | 21.8            |
 
 **Citation** \
-OPTIMIZING READ PERFORMANCE IN DISTRIBUTED systems USING Chrony Sync process. \
+ENHANCING SCALABILITY WITH OPTIMIZED REPLICATION IN DISTRIBUTED ARCHITECTURES \
 Kanagalakshmi Murugan \
 International Journal on Science and Technology \
 E-ISSN-2229-7677 \
