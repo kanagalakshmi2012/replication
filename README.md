@@ -18,7 +18,7 @@ Developed and refined replication mechanisms by integrating the ZAB protocol to 
 * **Performance Improvement:** \
 Evaluated and demonstrated reduced replication time and improved scalability compared to traditional quorum-based VR communication.
 
-* **Reserach Leadership:** \
+* **Research Leadership:** \
   Directed the research and technical execution, concentrating on enhancing distributed databases via innovative algorithm development.
 
 **Relevance & Real-World Impact**
