@@ -3,7 +3,7 @@
 **ENHANCING SCALABILITY WITH OPTIMIZED REPLICATION IN DISTRIBUTED ARCHITECTURES**
 * Author: Kanagalakshmi Murugan
 * Published In : International Journal on Science and Technology (IJSAT)
-* Publication Date: 06-2022
+* Publication Date: 07-2023
 * E-ISSN: 2229-7677
 * Impact Factor: 9.88
 * Link:
