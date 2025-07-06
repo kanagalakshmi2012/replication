@@ -23,14 +23,16 @@ Evaluated and demonstrated reduced replication time and improved scalability com
 
 **Relevance & Real-World Impact**
 
-* **Kubernetes infrastructure optimization:**\
-    Enhances distributed key-value store performance by improving the write availability in distributed systems.
-* **Write availability Improvement:** \
-    need to add here
+* **Replication Time Optimization:** \
+Addressed replication delays in Viewstamped Replication (VR) by introducing the ZAB protocol, reducing communication overhead in large node clusters.
+
+* **Scalability and Efficiency Enhancement:** \
+Improved system throughput and responsiveness in distributed environments by minimizing replication time while preserving fault tolerance and consistency.
+
 * **Academic Recognition :** \
-    need to add here
+    Discussed in scholarly articles and technical documents focusing on DNS query handling and performance improvements in ETCD.
 * **Educational Impact:** \
-    need to add here \
+    Incorporated into research projects, supporting continuous academic dialogue on container orchestration and cloud system efficiency. \
 
 **Experimental Results (Summary)**:
 
