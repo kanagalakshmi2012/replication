@@ -90,4 +90,5 @@ func main() {
 	elapsed := time.Since(start)
 
 	fmt.Printf("ZAB replication of %d proposals completed in %s\n", totalProposals, elapsed)
+
 }
